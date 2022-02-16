@@ -61,7 +61,7 @@
     </style>
 
     <style name="BugleTheme.ConversationActivityBase" parent="BugleTheme">
-        <item name="android:windowBackground">@color/conversation_background</item>
+        <item name="android:windowBackground">@color/window_background</item>
         <item name="windowActionBarOverlay">true</item>
         <item name="colorAccent">@color/accent_color</item>
         <item name="android:fastScrollPreviewBackgroundLeft">@drawable/contacts_fastscroll_label_left</item>
@@ -81,6 +81,7 @@
     </style>
 
     <style name="BugleTheme.SettingsActivity" parent="BugleTheme">
+        <item name="android:windowBackground">@color/conversation_background</item>
         <item name="android:textSize">@dimen/settings_list_text_size</item>
     </style>
 
