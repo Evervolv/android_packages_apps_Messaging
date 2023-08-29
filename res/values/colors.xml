@@ -41,6 +41,7 @@
     <color name="timestamp_text_incoming">#99000000</color>
     <color name="timestamp_text_failed">#99ff0000</color>
     <color name="compose_send_text_color">#000000</color>
+    <color name="compose_send_text_background_color">@color/window_background</color>
 
     <color name="message_title_text">#ff323232</color>
     <color name="message_download_failed_status_text">#000000</color>
