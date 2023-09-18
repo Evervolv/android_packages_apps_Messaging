@@ -72,7 +72,7 @@
     </style>
 
     <style name="BugleTheme.ConversationListActivity" parent="BugleTheme">
-        <item name="android:windowBackground">@color/conversation_background</item>
+        <item name="android:windowBackground">@color/window_background</item>
     </style>
 
     <style name="BugleTheme.ArchivedConversationListActivity" parent="BugleTheme.ConversationListActivity">
@@ -81,7 +81,7 @@
     </style>
 
     <style name="BugleTheme.SettingsActivity" parent="BugleTheme">
-        <item name="android:windowBackground">@color/conversation_background</item>
+        <item name="android:windowBackground">@color/window_background</item>
         <item name="android:textSize">@dimen/settings_list_text_size</item>
     </style>
 
